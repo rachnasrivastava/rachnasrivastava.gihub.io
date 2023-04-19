@@ -1,14 +1,18 @@
 +++
-title = "About Calligraphy"
+title = "About Rachna"
 layout = "page"
 +++
 
-**Cal·lig·ra·phy** *(kəˈliɡrəfē)* n. <br>
-decorative handwriting or handwritten lettering
-{.text-align-right}
+# About Rachna
 
-Calligraphy is a theme by [Patrick A Collins](https://pacollins.com/) for [Hugo](https://gohugo.io/) static site generator. Inspired by its namesake, the theme aims to
-provide a simple canvas that is elegant and ensures high readability for all
-visitors.
+![Photo of Rachna](rachna-1.jpg)
 
-![Photo of Calligraphy Materials by Vlada Karpovich from Pexels](calligraphy-karpovich.jpg)
+Rachna Srivastava is an author of children’s books. She strives to convey everyday morals and sensitivities in young minds. Her stories use simple characters and sometimes animals as characters to allow children to imbibe the values from the stories easily.
+
+She stays in Waterloo,Ontario with her husband and three-year-old son. Her son is source of inspiration of her writing. She enjoys watching cartoons movies, reading and writing children’s books, and travelling to new places.
+
+[Facebook](https://www.facebook.com/rachnasrivastavabooks)
+
+[Twitter](https://twitter.com/rachnasrivastav)
+
+[Author Profile @ Library of Canada](https://bac-lac.on.worldcat.org/search?queryString=au%3D%22Srivastava%2C+Rachna%22&clusterResults=false&groupVariantRecords=false)

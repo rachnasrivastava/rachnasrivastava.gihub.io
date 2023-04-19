@@ -1,6 +1,6 @@
 baseURL = "https://rachnasrivastava.com/"
 title = "Hello from Rachna"
-copyright = "Copyright © 2022"
+copyright = "Copyright © 2023 Rachna Srivastava"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -9,7 +9,7 @@ enableInlineShortcodes = true
 enableEmoji = true
 
 [params]
-  tagline = "Elegant Writing"
+  tagline = "Making children happy: one book at a time."
   cdn = false
 
 [params.meta]
@@ -33,22 +33,28 @@ enableEmoji = true
   weight = 30
 
 [[menu.main]]
-  identifier = "tags"
-  name = "Tags"
-  url = "/tags/"
+  identifier = "stories"
+  name = "Stories"
+  url = "/stories/"
   weight = 40
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/blog/"
+  weight = 50
 
 [[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
-  weight = 45
+  weight = 60
 
 [[menu.main]]
   identifier = "contact"
   name = "Contact"
   url = "/contact/"
-  weight = 50
+  weight = 70
 
 ################################################################################
 ######       The block below has additional configuration settings.        #####

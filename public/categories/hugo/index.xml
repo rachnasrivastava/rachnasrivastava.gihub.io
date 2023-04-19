@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Hello from Rachna</title>
+    <link>https://rachnasrivastava.com/categories/hugo/</link>
+    <description>Recent content in hugo on Hello from Rachna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023 Rachna Srivastava</copyright>
+    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rachnasrivastava.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://rachnasrivastava.com/blog/welcome/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rachnasrivastava.com/blog/welcome/</guid>
+      <description>&lt;p&gt;This article explains how to install the theme and provides example files.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
