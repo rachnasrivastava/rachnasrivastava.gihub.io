@@ -1,12 +1,13 @@
 baseURL = "https://rachnasrivastava.com/"
 title = "Hello from Rachna"
-copyright = "Copyright © 2023 Rachna Srivastava"
+copyright = "Copyright © 2024 Rachna Srivastava"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
 theme = "calligraphy"
 enableInlineShortcodes = true
 enableEmoji = true
+
 
 [params]
   tagline = "Making children happy: one book at a time."
@@ -29,8 +30,9 @@ enableEmoji = true
 [[menu.main]]
   identifier = "books"
   name = "Books"
+#  pageRef = "/books"
   url = "/books/"
-  weight = 30
+  weight = 20
 
 [[menu.main]]
   identifier = "stories"
@@ -62,9 +64,9 @@ enableEmoji = true
 ################################################################################
 
 [taxonomies]
-  author = "authors"
-  series = "series"
-  category = "categories"
+#  author = "authors"
+#  series = "series"
+#  category = "categories"
   tag = "tags"
   books = "books"
 

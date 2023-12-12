@@ -11,4 +11,3 @@ layout = "page"
 
 **Email:**
 
-{{< contact-form netlify >}}
