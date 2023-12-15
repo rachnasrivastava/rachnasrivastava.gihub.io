@@ -1,37 +1,32 @@
 ---
-title: "Mango Tree"
+title: "The Jalebi Race"
 date: 2022-09-07T01:31:38-04:00
 draft: true
 ---
 
-# Mango Tree
+# Jalebi Race
 
-![Mango Tree Cover](The_Mango_Tree_and_other_stories_cover-150x150.png)
+![Jalebi Race Cover](The_Mango_Tree_and_other_stories_cover-150x150.png)
 
-*The Mango Tree and Other Stories* is an original collection of children’s stories that emphasizes life lessons and morals. Each tale discusses an important aspect of childhood and how a child might come to understand it. Young readers will be able to easily relate to the honest and innocent characters, and enjoy the situations those characters find themselves in. The lessons they will learn comprise an important part of growing up.
+"The Jalebi Race" brings together the stories that rekindle the childhood innocence and curiosity we tend to lose as we age. Through storytelling, the author has bottled the essence of youth, allowing readers to relish the sweetness of those fleeting golden moments and experiences in childhood.
 
                                                                    **The book is available for free.**
 
 
-[Mango Tree @ Library of Canada](https://bac-lac.on.worldcat.org/oclc/1036072416)
 
-[Amazon India](https://www.amazon.in/Mango-Tree-Other-Stories-ebook/dp/B00BSHNR2M)
+[Amazon India](https://www.amazon.in/Jalebi-Race-Rachna-Srivastava-ebook/dp/B0CPFZ3MXY/)
 
-[Amazon USA](https://www.amazon.com/Mango-Tree-Other-Stories-ebook/dp/B00BSHNR2M)
+[Amazon USA Kindle](https://www.amazon.com/Jalebi-Race-Rachna-Srivastava-ebook/dp/B0CPFZ3MXY/)
 
-[Amazon Canada](https://www.amazon.ca/Mango-Tree-Other-Stories-ebook/dp/B00BSHNR2M)
+[Amazon USA Paperback](https://www.amazon.com/Jalebi-Race-Rachna-Srivastava/dp/0988122472/)
 
-[Amazon UK](https://www.amazon.co.uk/Mango-Tree-Other-Stories-ebook/dp/B00BSHNR2M)
+[Amazon Canada Kindle](https://www.amazon.ca/Jalebi-Race-Rachna-Srivastava-ebook/dp/B0CPFZ3MXY/)
 
-[Amazon India](https://www.amazon.in/Mango-Tree-Other-Stories-ebook/dp/B00BSHNR2M)
+[Amazon Canada Paperback](https://www.amazon.ca/Jalebi-Race-Rachna-Srivastava/dp/0988122472/)
 
-[GoodReads](https://www.goodreads.com/book/show/41883351-the-mango-tree-and-other-stories)
+[Amazon UK Kindle](https://www.amazon.co.uk/Jalebi-Race-Rachna-Srivastava-ebook/dp/B0CPFZ3MXY/)
 
-[B&N](https://www.barnesandnoble.com/w/the-mango-tree-and-other-stories-rachna-srivastava/1117927325;jsessionid=E4CABC6C0F2B031AF8F3E6ABCF9E4BD7.prodny_store01-atgap12?ean=9780988122444)
-
-[Chapters Indigo Canada](https://www.chapters.indigo.ca/en-ca/books/the-mango-tree-and-other/9780988122444-item.html)
-
-[Apple Books](https://books.apple.com/us/book/the-mango-tree-and-other-stories/id793892815)
+[Amazon UK Paperback](https://www.amazon.co.uk/Jalebi-Race-Rachna-Srivastava/dp/0988122472/)
 
 [PDF](mango_tree.pdf)
 
