@@ -1,90 +1,36 @@
-baseURL = "https://rachnasrivastava.com/"
-title = "Hello from Rachna"
-copyright = "Copyright © 2024 Rachna Srivastava"
-paginate = 3
-languageCode = "en"
-DefaultContentLanguage = "en"
-theme = "calligraphy"
-enableInlineShortcodes = true
-enableEmoji = true
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+theme = "hugo-story"
+
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = "true"
+#canonifyURLs = "true"
+
+# Local
+baseURL = "/"
+publishDir = "public"
+
+# Remote
+#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+#publishDir = "//centos/sites/hugodev/hugostory/"
 
 
-[params]
-  tagline = "Making children happy: one book at a time."
-  cdn = false
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
 
-[params.meta]
-  baseOGImage = "img/screenshot.jpg"
-  faviconComplete = true
-  faviconSVG = true
-  faviconVersion = ""
-  faviconMSColor = "#00aba9"
-  faviconiOSColor = "#00aba9"
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
 
-[[menu.main]]
-  identifier = "home"
-  name = "Home"
-  url = "/"
-  weight = 1
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
 
-[[menu.main]]
-  identifier = "books"
-  name = "Books"
-#  pageRef = "/books"
-  url = "/books/"
-  weight = 20
+[Params]
 
-[[menu.main]]
-  identifier = "stories"
-  name = "Stories"
-  url = "/stories/"
-  weight = 40
-
-[[menu.main]]
-  identifier = "blog"
-  name = "Blog"
-  url = "/blog/"
-  weight = 50
-
-[[menu.main]]
-  identifier = "about"
-  name = "About"
-  url = "/about/"
-  weight = 60
-
-[[menu.main]]
-  identifier = "contact"
-  name = "Contact"
-  url = "/contact/"
-  weight = 70
-
-################################################################################
-######       The block below has additional configuration settings.        #####
-######         Users can edit, but for most it won't be necessary.         #####
-################################################################################
-
-[taxonomies]
-#  author = "authors"
-#  series = "series"
-#  category = "categories"
-  tag = "tags"
-  books = "books"
-
-[markup.goldmark.renderer]
-  unsafe = true
-
-[markup.goldmark.parser.attribute]
-  block = true
-
-[module.hugoVersion]
-  extended = true
-  min = "0.89.0"
-
-[privacy.twitter]
-  enableDNT = true
-
-[privacy.vimeo]
-  enableDNT = true
-
-[privacy.youtube]
-  privacyEnhanced = true
+[Params.social]

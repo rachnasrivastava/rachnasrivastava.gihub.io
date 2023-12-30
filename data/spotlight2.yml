@@ -1,0 +1,34 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Spotlight"
+content: |
+  *The Mango Tree and Other Stories* is an original collection of children’s stories that emphasizes life lessons and morals. Each tale discusses an important aspect of childhood and how a child might come to understand it. Young readers will be able to easily relate to the honest and innocent characters, and enjoy the situations those characters find themselves in. The lessons they will learn comprise an important part of growing up.
+
+  [Mango Tree @ Library of Canada](https://bac-lac.on.worldcat.org/oclc/1036072416)
+
+  [Amazon India](https://www.amazon.in/Mango-Tree-Other-Stories-ebook/dp/B00BSHNR2M)
+
+  [Amazon USA](https://www.amazon.com/Mango-Tree-Other-Stories-ebook/dp/B00BSHNR2M)
+
+  [Amazon Canada](https://www.amazon.ca/Mango-Tree-Other-Stories-ebook/dp/B00BSHNR2M)
+
+  [Amazon UK](https://www.amazon.co.uk/Mango-Tree-Other-Stories-ebook/dp/B00BSHNR2M)
+
+  [Amazon India](https://www.amazon.in/Mango-Tree-Other-Stories-ebook/dp/B00BSHNR2M)
+
+  [GoodReads](https://www.goodreads.com/book/show/41883351-the-mango-tree-and-other-stories)
+
+  [B&N](https://www.barnesandnoble.com/w/the-mango-tree-and-other-stories-rachna-srivastava/1117927325;jsessionid=E4CABC6C0F2B031AF8F3E6ABCF9E4BD7.prodny_store01-atgap12?ean=9780988122444)
+
+  [Chapters Indigo Canada](https://www.chapters.indigo.ca/en-ca/books/the-mango-tree-and-other/9780988122444-item.html)
+
+  [Apple Books](https://books.apple.com/us/book/the-mango-tree-and-other-stories/id793892815)
+
+  [PDF](mango_tree.pdf)
+
+  [EPUB](https://www.lulu.com/shop/rachna-srivastava/the-mango-tree-and-other-stories/ebook/product-15gwnr2k.html)
+
+button: 
+  label: "Learn More"
+  link: "#"
+image: "mango-tree/mango-tree-cover.png"
