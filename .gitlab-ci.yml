@@ -11,10 +11,16 @@ image:
   name: golang:1.20.6-bookworm
 
 pages:
+  stage: deploy
   script:
+   - mkdir .public
+   - cp -r docs/* .public
+   - mv .public public   
   artifacts:
     paths:
-      - docs
+      - public
+  only: 
+     - main  
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
 
